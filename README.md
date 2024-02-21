@@ -1,2 +1,2 @@
 # MyAssignment
-For submission of PLP assignments
+For submission of assignments
