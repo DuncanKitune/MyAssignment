@@ -40,7 +40,7 @@ void main() {
 //Creating a map with string keys and inteer values
   Map<String, int> ages = {'Joseph': 30, 'Benjamin': 25, 'Reuben': 45};
   print("Ages of students: $ages");
-  print("Age of first student ${ages[0]}");
+  print("Age of the first student ${ages[0]}");
 
   //Runes
   //A rune can be defined as an integer used to represent any Unicode code

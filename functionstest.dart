@@ -18,8 +18,11 @@ void main() {
   double div = num1 / num3;
   print("DivideTwo is $div");
 //stringLength -takes an argument of type String and returns the length of that string.
+
   List<String> names = ["Joseph", "Judah", "Benjamin", "Reuben"];
-  print("Stringlenth is $names");
+  int length = names.length;
+  print("StringLength is:  $length");
+
 //getFirstElement - takes a list as an argument and returns the first element of that list.
   print("The first element is ${names[0]}");
 }
